@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="RuQUmj0nWHZlSOGbnNkt" name="Página-1">
-    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1768" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="h7WGP8sBRmOm05doP22f-0" />
         <mxCell id="h7WGP8sBRmOm05doP22f-1" parent="h7WGP8sBRmOm05doP22f-0" />
@@ -17,7 +17,7 @@
           <mxGeometry height="40" width="100" x="319" y="240" as="geometry" />
         </mxCell>
         <mxCell id="INybhRuJH6x6_VcMi7-P-4" parent="h7WGP8sBRmOm05doP22f-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fim" vertex="1">
-          <mxGeometry height="80" width="120" x="318" y="870" as="geometry" />
+          <mxGeometry height="80" width="120" x="309" y="870" as="geometry" />
         </mxCell>
         <mxCell id="INybhRuJH6x6_VcMi7-P-5" edge="1" parent="h7WGP8sBRmOm05doP22f-1" source="INybhRuJH6x6_VcMi7-P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="INybhRuJH6x6_VcMi7-P-13" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -46,21 +46,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INybhRuJH6x6_VcMi7-P-13" parent="h7WGP8sBRmOm05doP22f-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Média=Somador/Contador" vertex="1">
-          <mxGeometry height="60" width="138" x="309" y="630" as="geometry" />
+          <mxGeometry height="60" width="138" x="300" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="INybhRuJH6x6_VcMi7-P-14" edge="1" parent="h7WGP8sBRmOm05doP22f-1" source="INybhRuJH6x6_VcMi7-P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="INybhRuJH6x6_VcMi7-P-4" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="INybhRuJH6x6_VcMi7-P-14" edge="1" parent="h7WGP8sBRmOm05doP22f-1" source="INybhRuJH6x6_VcMi7-P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="870.0000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="INybhRuJH6x6_VcMi7-P-15" parent="h7WGP8sBRmOm05doP22f-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escrever média" vertex="1">
-          <mxGeometry height="60" width="120" x="318" y="750" as="geometry" />
+          <mxGeometry height="60" width="120" x="309" y="750" as="geometry" />
         </mxCell>
         <mxCell id="INybhRuJH6x6_VcMi7-P-16" edge="1" parent="h7WGP8sBRmOm05doP22f-1" source="INybhRuJH6x6_VcMi7-P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="INybhRuJH6x6_VcMi7-P-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="90" y="260" />
-              <mxPoint x="90" y="524.1" />
-              <mxPoint x="290" y="524.1" />
-              <mxPoint x="290" y="535.5" />
+              <mxPoint x="90" y="535.5" />
             </Array>
           </mxGeometry>
         </mxCell>
