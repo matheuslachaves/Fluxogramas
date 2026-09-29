@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="HvGrImzweSId-rTw_gaa">
-    <mxGraphModel dx="1414" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,8 +61,24 @@
         <mxCell id="aehtjKJkvzIAGLpBI9v4-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="N&amp;gt;0" vertex="1">
           <mxGeometry height="80" width="80" x="150" y="255" as="geometry" />
         </mxCell>
+        <mxCell id="dfU_l6KNWhcHiD1jAZc7-1" edge="1" parent="1" source="aehtjKJkvzIAGLpBI9v4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="aehtjKJkvzIAGLpBI9v4-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aehtjKJkvzIAGLpBI9v4-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Escrever: &quot;É negativo&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="540" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="dfU_l6KNWhcHiD1jAZc7-2" edge="1" parent="1" source="aehtjKJkvzIAGLpBI9v4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aehtjKJkvzIAGLpBI9v4-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="610" />
+              <mxPoint x="270" y="610" />
+              <mxPoint x="270" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aehtjKJkvzIAGLpBI9v4-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Escrever: &quot;É Positivo&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="130" y="530" as="geometry" />
